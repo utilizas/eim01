@@ -76,14 +76,6 @@ Este proyecto está disponible públicamente como aplicación web desplegada en 
 [![Deploy: Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white)](https://eim01.vercel.app/)
 [![Deploy: Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)](https://eim01.netlify.app/)
 
-- **Vercel:** despliegue principal en producción → [eim01.vercel.app](https://eim01.vercel.app/)  
-- **Netlify:** despliegue alternativo (sustituir `YOUR-NETLIFY-SITE` por el subdominio real).  
-
-
-[![Deploy: Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white)](https://eim01.vercel.app/)
-[![Deploy: Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)](https://YOUR-NETLIFY-SITE.netlify.app/)
-
-
 ---
 
 ## 📖 Citar como:
