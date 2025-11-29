@@ -71,7 +71,7 @@ Este trabajo se distribuye bajo licencia **CC BY-NC-SA 4.0**.
 
 ## 📖 Citar como
 
-`Moreno Muñoz, M. (2025). Inteligencia artificial, trastornos alimentarios y percepción de la imagen corporal: Revisión de literatura y evidencia sobre amplificación de sesgos en la interacción adolescentes-LLM. Informe preliminar - Proyecto EIMITA, Universidad de Granada. https://doi.org/10.5281/zenodo.17762381`
+```Moreno Muñoz, M. (2025). Inteligencia artificial, trastornos alimentarios y percepción de la imagen corporal: Revisión de literatura y evidencia sobre amplificación de sesgos en la interacción adolescentes-LLM. Informe preliminar - Proyecto EIMITA, Universidad de Granada. https://doi.org/10.5281/zenodo.17762381```
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17762381-blue)](https://doi.org/10.5281/zenodo.17762381)
 
