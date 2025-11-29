@@ -1,6 +1,6 @@
 # IA Generativa, imagen corporal y riesgo de TCA en Adolescentes
 
-> **Contribución al proyecto EIMITA**:
+> **Contribución al proyecto EIMITA**:  
 > _[Emoción e imagen en los hábitos y trastornos alimentarios: comunicación interlingüística accesible](https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/concesion_def201223.pdf)_
 
 Este repositorio contiene materiales del **Informe preliminar (2025)** sobre el impacto de la inteligencia artificial generativa en la percepción de la imagen corporal y el riesgo de **Trastornos de la Conducta Alimentaria (TCA)** en adolescentes de 13 a 17 años. El trabajo forma parte de una serie de contribuciones al **[Proyecto EIMITA](https://produccioncientifica.ugr.es/proyectos/796378/detalle)** (Universidad de Granada).
@@ -71,7 +71,9 @@ Este trabajo se distribuye bajo licencia **CC BY-NC-SA 4.0**.
 
 ## 📖 Citar como
 
-```Moreno Muñoz, M. (2025). Inteligencia artificial, trastornos alimentarios y percepción de la imagen corporal: Revisión de literatura y evidencia sobre amplificación de sesgos en la interacción adolescentes-LLM. Informe preliminar - Proyecto EIMITA, Universidad de Granada. https://doi.org/10.5281/zenodo.17762381```
+```html
+Moreno Muñoz, M. (2025). Inteligencia artificial, trastornos alimentarios y percepción de la imagen corporal: Revisión de literatura y evidencia sobre amplificación de sesgos en la interacción adolescentes-LLM. Informe preliminar - Proyecto EIMITA, Universidad de Granada. https://doi.org/10.5281/zenodo.17762381
+```
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17762381-blue)](https://doi.org/10.5281/zenodo.17762381)
 
