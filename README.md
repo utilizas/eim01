@@ -73,8 +73,8 @@ Este trabajo se distribuye bajo licencia **CC BY-NC-SA 4.0**.
 
 Este proyecto está disponible públicamente como aplicación web desplegada en diferentes plataformas de hosting:
 
-[![Deploy: Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white)](https://eim01.vercel.app/)
-[![Deploy: Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)](https://eim01.netlify.app/)
+- [![Deploy: Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white)](https://eim01.vercel.app/)  
+- [![Deploy: Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)](https://eim01.netlify.app/)  
 
 ---
 
