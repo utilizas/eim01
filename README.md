@@ -45,10 +45,10 @@ El futuro no es inevitable: es una **elección colectiva**.
 
 ## 📂 Contenido del repositorio
 
-- `/docs` → Informe preliminar en formato Quarto/HTML/PDF  
+- `/docs` → Informe preliminar en formato Quarto/HTML (incluye las tablas, gráficos y fragmentos de código)
 - `/data` → Tablas y matrices de evidencia (2020–2025)  
 - `/figures` → Visualizaciones y gráficos de resultados  
-- `/appendices` → Instrumentos de evaluación y materiales suplementarios  
+- `/appendices` → Instrumentos de evaluación y materiales suplementarios  (pendiente)
 
 ---
 
